@@ -25,7 +25,7 @@ exports.test = functions.https.onRequest((request, response) => {
             let accessToken = app.getUser().accessToken;
             // use the accessToken to access your API
         }
-        app.ask(accessToken)
+        app.ask('Complete!')
     }
 
     const actionMap = new Map();
