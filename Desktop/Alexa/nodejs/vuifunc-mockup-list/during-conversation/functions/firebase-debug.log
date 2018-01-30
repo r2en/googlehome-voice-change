@@ -1,0 +1,40 @@
+[debug] [2018-01-30T00:16:21.707Z] ----------------------------------------------------------------------
+[debug] [2018-01-30T00:16:21.710Z] Command:       /Users/takayoshi-endo/.anyenv/envs/ndenv/versions/v8.1.2/bin/node /Users/takayoshi-endo/.anyenv/envs/ndenv/versions/v8.1.2/bin/firebase deploy --only functions
+[debug] [2018-01-30T00:16:21.710Z] CLI Version:   3.17.4
+[debug] [2018-01-30T00:16:21.710Z] Platform:      darwin
+[debug] [2018-01-30T00:16:21.710Z] Node Version:  v8.1.2
+[debug] [2018-01-30T00:16:21.711Z] Time:          Tue Jan 30 2018 09:16:21 GMT+0900 (+09)
+[debug] [2018-01-30T00:16:21.711Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-01-30T00:16:21.724Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-01-30T00:16:21.724Z] > authorizing via signed-in user
+[debug] [2018-01-30T00:16:21.726Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2018-01-30T00:16:21.726Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ { refresh_token: '1/YbrhUbjjsKG_lQQBRtZ0ECfMuWyEOe0IW-ChP9D4lGU',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  grant_type: 'refresh_token',
+  scope: 'email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
+ Tue Jan 30 2018 09:16:21 GMT+0900 (+09)
+[debug] [2018-01-30T00:16:21.883Z] <<< HTTP RESPONSE 200
+[debug] [2018-01-30T00:16:21.896Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/d-con-9cd61  
+  
+ Tue Jan 30 2018 09:16:21 GMT+0900 (+09)
+[debug] [2018-01-30T00:16:22.666Z] <<< HTTP RESPONSE 200
+[debug] [2018-01-30T00:16:22.666Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/d-con-9cd61/tokens  
+  
+ Tue Jan 30 2018 09:16:22 GMT+0900 (+09)
+[debug] [2018-01-30T00:17:23.054Z] <<< HTTP RESPONSE 200
+[debug] [2018-01-30T00:17:23.164Z] Error: Firebase.authWithCustomToken failed: First argument must be a valid credential (a string).
+    at ng (/Users/takayoshi-endo/.anyenv/envs/ndenv/versions/v8.1.2/lib/node_modules/firebase-tools/node_modules/firebase/lib/firebase-node.js:129:313)
+    at X.gg (/Users/takayoshi-endo/.anyenv/envs/ndenv/versions/v8.1.2/lib/node_modules/firebase-tools/node_modules/firebase/lib/firebase-node.js:266:131)
+    at /Users/takayoshi-endo/.anyenv/envs/ndenv/versions/v8.1.2/lib/node_modules/firebase-tools/lib/acquireRefs.js:19:19
+    at initializePromise (/Users/takayoshi-endo/.anyenv/envs/ndenv/versions/v8.1.2/lib/node_modules/firebase-tools/node_modules/rsvp/dist/rsvp.js:567:5)
+    at new Promise (/Users/takayoshi-endo/.anyenv/envs/ndenv/versions/v8.1.2/lib/node_modules/firebase-tools/node_modules/rsvp/dist/rsvp.js:1039:33)
+    at /Users/takayoshi-endo/.anyenv/envs/ndenv/versions/v8.1.2/lib/node_modules/firebase-tools/lib/acquireRefs.js:12:12
+    at tryCatch (/Users/takayoshi-endo/.anyenv/envs/ndenv/versions/v8.1.2/lib/node_modules/firebase-tools/node_modules/rsvp/dist/rsvp.js:525:12)
+    at invokeCallback (/Users/takayoshi-endo/.anyenv/envs/ndenv/versions/v8.1.2/lib/node_modules/firebase-tools/node_modules/rsvp/dist/rsvp.js:538:13)
+    at publish (/Users/takayoshi-endo/.anyenv/envs/ndenv/versions/v8.1.2/lib/node_modules/firebase-tools/node_modules/rsvp/dist/rsvp.js:508:7)
+    at flush (/Users/takayoshi-endo/.anyenv/envs/ndenv/versions/v8.1.2/lib/node_modules/firebase-tools/node_modules/rsvp/dist/rsvp.js:2415:5)
+[error] 
+[error] Error: An unexpected error has occurred.
