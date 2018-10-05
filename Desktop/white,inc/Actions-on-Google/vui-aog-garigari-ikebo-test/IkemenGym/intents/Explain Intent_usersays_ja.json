@@ -1,0 +1,125 @@
+[
+  {
+    "id": "1067a849-3bc0-4a70-932d-2ba68eadf693",
+    "data": [
+      {
+        "text": "もっかい説明して",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833378
+  },
+  {
+    "id": "5821d97c-5ed8-4818-b0ef-c03e781b7fd6",
+    "data": [
+      {
+        "text": "なんて言ったんですか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833378
+  },
+  {
+    "id": "7b8b4b6f-94b2-4ccf-a671-6897bf6d890f",
+    "data": [
+      {
+        "text": "なんい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833378
+  },
+  {
+    "id": "50e9f979-033b-4ff7-a76b-bd8fb05a7d3b",
+    "data": [
+      {
+        "text": "なんていったの",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833378
+  },
+  {
+    "id": "66415c36-3b41-4005-8993-39e1862cb479",
+    "data": [
+      {
+        "text": "もう",
+        "userDefined": false
+      },
+      {
+        "text": "一",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "回言って",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833378
+  },
+  {
+    "id": "25cb07ac-fd0e-413a-ac66-d13652f76298",
+    "data": [
+      {
+        "text": "もう",
+        "userDefined": false
+      },
+      {
+        "text": "一",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "回イッテ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833378
+  },
+  {
+    "id": "ef89996c-0e44-4f51-aa53-d5355bde35d7",
+    "data": [
+      {
+        "text": "もう",
+        "userDefined": false
+      },
+      {
+        "text": "一",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "回説明して",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534824033
+  },
+  {
+    "id": "f838e7c7-dc5b-4354-8fa9-f993b36fb812",
+    "data": [
+      {
+        "text": "わからない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534824033
+  }
+]

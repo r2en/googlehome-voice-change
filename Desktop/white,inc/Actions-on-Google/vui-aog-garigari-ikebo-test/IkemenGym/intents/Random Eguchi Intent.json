@@ -1,0 +1,28 @@
+{
+  "id": "024dd9ad-b7f5-4f89-9606-098a1f8307bb",
+  "name": "Random Eguchi Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535103666,
+  "fallbackIntent": false,
+  "events": []
+}

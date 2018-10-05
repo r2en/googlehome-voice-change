@@ -1,0 +1,28 @@
+{
+  "id": "92e6ad53-a485-434f-968b-3b0db031cdfe",
+  "name": "Level Set Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535969115,
+  "fallbackIntent": false,
+  "events": []
+}

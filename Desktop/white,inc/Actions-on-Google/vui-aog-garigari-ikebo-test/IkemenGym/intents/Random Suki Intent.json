@@ -1,0 +1,36 @@
+{
+  "id": "cde5a3b9-a7e1-48d9-9bcc-4ca2ad06164f",
+  "name": "Random Suki Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cfeb9062-9aa0-4a66-b0fd-9b222b3e00a9",
+          "dataType": "@narusekei",
+          "name": "narusekei",
+          "value": "$narusekei",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536052196,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "94ac8fc7-8b6a-4e78-bbf9-3edc0f74a903",
+  "name": "Random Yasashiku Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535103230,
+  "fallbackIntent": false,
+  "events": []
+}

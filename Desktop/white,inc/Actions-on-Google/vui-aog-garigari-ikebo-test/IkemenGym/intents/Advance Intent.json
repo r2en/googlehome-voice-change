@@ -1,0 +1,30 @@
+{
+  "id": "b16279ea-be6b-48c1-8098-a67702b43c22",
+  "name": "Advance Intent",
+  "auto": true,
+  "contexts": [
+    "advance"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535968466,
+  "fallbackIntent": false,
+  "events": []
+}

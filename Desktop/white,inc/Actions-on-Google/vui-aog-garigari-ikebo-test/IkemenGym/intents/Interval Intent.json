@@ -1,0 +1,39 @@
+{
+  "id": "ac4a60df-61aa-409e-b53b-7bb446163f96",
+  "name": "Interval Intent",
+  "auto": true,
+  "contexts": [
+    "interval"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "07d1fbb0-3e0c-46bb-a4c7-9cb1504c8d28",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "interval",
+          "value": "$interval",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534205971,
+  "fallbackIntent": false,
+  "events": []
+}

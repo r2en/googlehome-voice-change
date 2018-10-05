@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ac650c5d-f35c-43d3-a8f0-c2bfee211887",
+    "data": [
+      {
+        "text": "はい",
+        "alias": "reason",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4ce0cf75-7486-47d6-9333-1f2135670cbd",
+    "data": [
+      {
+        "text": "成瀬くんに会いたいから",
+        "alias": "reason",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66dea04e-71c6-4e5f-be5b-463c27865210",
+    "data": [
+      {
+        "text": "痩せたいから",
+        "alias": "reason",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d1e5b0d-b64f-4012-9e47-7e2b9b65eeee",
+    "data": [
+      {
+        "text": "なんでもええねん",
+        "alias": "reason",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534211987
+  }
+]

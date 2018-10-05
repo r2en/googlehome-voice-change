@@ -1,0 +1,30 @@
+{
+  "id": "53d368c8-9e8e-4729-9f11-a2553bf9e41b",
+  "name": "Yes Intent",
+  "auto": true,
+  "contexts": [
+    "yes"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536050459,
+  "fallbackIntent": false,
+  "events": []
+}

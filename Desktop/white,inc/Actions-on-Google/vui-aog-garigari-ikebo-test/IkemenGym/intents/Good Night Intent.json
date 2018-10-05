@@ -1,0 +1,39 @@
+{
+  "id": "20e22ccf-bffb-4205-a8ca-33618aca143b",
+  "name": "Good Night Intent",
+  "auto": true,
+  "contexts": [
+    "goodnight"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5b4e8c13-4525-4b9a-b496-61aa8f48be06",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "goodnight",
+          "value": "$goodnight",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534208424,
+  "fallbackIntent": false,
+  "events": []
+}

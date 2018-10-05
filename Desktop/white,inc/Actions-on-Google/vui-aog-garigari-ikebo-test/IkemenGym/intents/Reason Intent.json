@@ -1,0 +1,39 @@
+{
+  "id": "c20f3767-1180-4f05-b81c-73fb2eb3d2e2",
+  "name": "Reason Intent",
+  "auto": true,
+  "contexts": [
+    "reason"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "614ea67e-929a-4b85-98b0-720c73166940",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "reason",
+          "value": "$reason",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534211987,
+  "fallbackIntent": false,
+  "events": []
+}

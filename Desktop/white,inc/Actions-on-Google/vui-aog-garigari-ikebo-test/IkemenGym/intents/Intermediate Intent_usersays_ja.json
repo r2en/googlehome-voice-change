@@ -1,0 +1,62 @@
+[
+  {
+    "id": "fae36399-11ad-4a97-ae99-4464795e5019",
+    "data": [
+      {
+        "text": "中級",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ba547ad3-2652-4a90-ac9e-d0f976cad337",
+    "data": [
+      {
+        "text": "中級でお願いします",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535968601
+  },
+  {
+    "id": "9726d687-f704-45f1-ad2d-1c25fc83e414",
+    "data": [
+      {
+        "text": "中級で",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535968601
+  },
+  {
+    "id": "94c4faf0-bc61-4263-b91b-f2069ff1c2e5",
+    "data": [
+      {
+        "text": "中級がいい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535968601
+  },
+  {
+    "id": "378bb261-92e6-4c94-b4df-99061fddf2d1",
+    "data": [
+      {
+        "text": "中級が良い",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832657
+  }
+]

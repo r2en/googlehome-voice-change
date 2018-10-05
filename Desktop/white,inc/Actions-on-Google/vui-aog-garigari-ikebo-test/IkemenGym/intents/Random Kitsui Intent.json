@@ -1,0 +1,28 @@
+{
+  "id": "d4ede5de-1e2f-4679-b93a-e3701590196a",
+  "name": "Random Kitsui Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535104505,
+  "fallbackIntent": false,
+  "events": []
+}

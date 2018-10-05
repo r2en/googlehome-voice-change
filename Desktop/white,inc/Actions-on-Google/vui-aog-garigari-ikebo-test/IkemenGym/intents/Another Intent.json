@@ -1,0 +1,30 @@
+{
+  "id": "c72becac-ffc1-47e5-b6f9-cf36dd9b2e3d",
+  "name": "Another Intent",
+  "auto": true,
+  "contexts": [
+    "another"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534211491,
+  "fallbackIntent": false,
+  "events": []
+}

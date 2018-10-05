@@ -1,0 +1,30 @@
+[
+  {
+    "id": "88eb35d3-33d6-4808-a51f-970a3c86a96f",
+    "data": [
+      {
+        "text": "はい",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58aa883d-4543-4802-9085-32bdd6292ed3",
+    "data": [
+      {
+        "text": "おはよう",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533989052
+  }
+]

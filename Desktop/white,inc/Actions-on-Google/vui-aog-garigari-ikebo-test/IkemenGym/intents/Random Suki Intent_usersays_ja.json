@@ -1,0 +1,314 @@
+[
+  {
+    "id": "3f2fc6db-4005-42c1-a996-0be09ad4b442",
+    "data": [
+      {
+        "text": "好き",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1535102697
+  },
+  {
+    "id": "0361923d-c7a9-4250-b357-b897c1568f6a",
+    "data": [
+      {
+        "text": "籍入れたい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536052196
+  },
+  {
+    "id": "3ded0dad-6bcc-43f2-a156-2818c57af019",
+    "data": [
+      {
+        "text": "結婚してください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102739
+  },
+  {
+    "id": "c8446f13-3743-45ad-ae7c-fb3a0ece0bff",
+    "data": [
+      {
+        "text": "結婚した",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536052196
+  },
+  {
+    "id": "1f468d52-9660-44b8-9de3-9c95f3ee082f",
+    "data": [
+      {
+        "text": "好きだ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536052196
+  },
+  {
+    "id": "c249fbd6-216e-4c61-ba12-87f29553f4ff",
+    "data": [
+      {
+        "text": "成瀬",
+        "alias": "narusekei",
+        "meta": "@narusekei",
+        "userDefined": false
+      },
+      {
+        "text": "好き",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536052196
+  },
+  {
+    "id": "40bc16fe-f5b1-49a5-a112-b2727a748bb7",
+    "data": [
+      {
+        "text": "成瀬くん",
+        "alias": "narusekei",
+        "meta": "@narusekei",
+        "userDefined": false
+      },
+      {
+        "text": "好き",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536052196
+  },
+  {
+    "id": "ec93cd1c-bb20-4769-90bd-021fbf87f7de",
+    "data": [
+      {
+        "text": "大好きです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536052196
+  },
+  {
+    "id": "af311af5-f497-421f-a707-cb473efc9514",
+    "data": [
+      {
+        "text": "大好き",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1536052196
+  },
+  {
+    "id": "3b7f4ca4-3f52-4dda-9ba2-cf5a24975bb1",
+    "data": [
+      {
+        "text": "付き合ってほしい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102739
+  },
+  {
+    "id": "8627b3b2-16a8-4a3e-af5f-3a4c333d2709",
+    "data": [
+      {
+        "text": "好きです付き合ってください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102739
+  },
+  {
+    "id": "68f56e40-5f29-491c-a697-83519d649ae9",
+    "data": [
+      {
+        "text": "付き合ってください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102739
+  },
+  {
+    "id": "87127b81-f4db-47d0-9980-91faade3e093",
+    "data": [
+      {
+        "text": "結婚",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102697
+  },
+  {
+    "id": "86a8a5db-2019-4bcc-aebc-e3404de806af",
+    "data": [
+      {
+        "text": "結婚して",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102697
+  },
+  {
+    "id": "d8b52d14-8fca-4ade-a562-8453200c989d",
+    "data": [
+      {
+        "text": "ハグして",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102697
+  },
+  {
+    "id": "454cb4e7-4314-44ff-9483-fc27a3575f21",
+    "data": [
+      {
+        "text": "抱きしめて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102697
+  },
+  {
+    "id": "860548ca-329f-479f-b4cf-12c48aef77db",
+    "data": [
+      {
+        "text": "ちゅー",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102697
+  },
+  {
+    "id": "276ccdf6-1239-40b8-b5dc-32b505482985",
+    "data": [
+      {
+        "text": "ちゅーして",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102697
+  },
+  {
+    "id": "b2345daf-32f3-47e1-97da-bdeb85917839",
+    "data": [
+      {
+        "text": "愛してる",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102697
+  },
+  {
+    "id": "6e0bd878-0657-40c8-a3e4-6be7a79a22a6",
+    "data": [
+      {
+        "text": "だいすき",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102697
+  },
+  {
+    "id": "18d9f904-e838-4a47-8e4c-3fce19eeae10",
+    "data": [
+      {
+        "text": "だいすきだよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102697
+  },
+  {
+    "id": "87a6e1c9-dc8f-4a0f-9b41-27d122d998d1",
+    "data": [
+      {
+        "text": "好きです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102697
+  },
+  {
+    "id": "b2b71d61-6e04-4097-9dd3-619f80351229",
+    "data": [
+      {
+        "text": "好きだよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102697
+  },
+  {
+    "id": "ee2d3e11-11ac-41df-a89b-7079245d4f27",
+    "data": [
+      {
+        "text": "すき",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1535102697
+  },
+  {
+    "id": "24f3aa9b-5f9e-4f92-a1a0-6edb1d96a549",
+    "data": [
+      {
+        "text": "スキ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833423
+  }
+]

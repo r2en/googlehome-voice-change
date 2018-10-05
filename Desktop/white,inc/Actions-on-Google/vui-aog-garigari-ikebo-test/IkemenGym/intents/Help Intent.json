@@ -1,0 +1,28 @@
+{
+  "id": "8b798241-1184-4aaf-96c6-eb8012e2d69c",
+  "name": "Help Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534833013,
+  "fallbackIntent": false,
+  "events": []
+}

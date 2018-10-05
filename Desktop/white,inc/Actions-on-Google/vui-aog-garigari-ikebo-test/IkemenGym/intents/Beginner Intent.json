@@ -1,0 +1,30 @@
+{
+  "id": "8df23094-aff4-4d1b-94fc-bf8940a8184e",
+  "name": "Beginner Intent",
+  "auto": true,
+  "contexts": [
+    "beginner"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535968513,
+  "fallbackIntent": false,
+  "events": []
+}

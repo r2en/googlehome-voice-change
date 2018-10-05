@@ -1,0 +1,182 @@
+[
+  {
+    "id": "13abd0a7-85de-4279-8f9a-b6cda4edc240",
+    "data": [
+      {
+        "text": "うんじゃあ 唐揚げください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b88dcbed-3724-4979-9511-80d99274af48",
+    "data": [
+      {
+        "text": "グー",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103885
+  },
+  {
+    "id": "581045c1-9f9b-4ae5-978f-cd55c66391ef",
+    "data": [
+      {
+        "text": "お腹すいたね",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103885
+  },
+  {
+    "id": "3d31087c-d84f-4afd-bbf1-47891a4b5673",
+    "data": [
+      {
+        "text": "ペコペコ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103885
+  },
+  {
+    "id": "984116e7-34c7-4866-be71-89bbc661fb43",
+    "data": [
+      {
+        "text": "御飯食べる",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103885
+  },
+  {
+    "id": "326e9a8d-9f4f-4dba-aa3b-8b7c55b78a25",
+    "data": [
+      {
+        "text": "ご飯食べてくる",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1535103885
+  },
+  {
+    "id": "fabdf30d-7e47-4ec1-bca3-a7b4eecb7ad2",
+    "data": [
+      {
+        "text": "ご飯",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103885
+  },
+  {
+    "id": "592c94bb-17dd-4bc4-be4e-d430b6d90b75",
+    "data": [
+      {
+        "text": "ご飯食べたい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103885
+  },
+  {
+    "id": "39341abd-fcbb-46b7-b8b7-ddb3dddce15e",
+    "data": [
+      {
+        "text": "おなかすいたね",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534834125
+  },
+  {
+    "id": "7ad03043-afb1-4a89-8fd7-c65100d91248",
+    "data": [
+      {
+        "text": "はらぺこ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534834125
+  },
+  {
+    "id": "fb492493-39be-472c-8df1-6853f1b1f9ff",
+    "data": [
+      {
+        "text": "はらがへった",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534834125
+  },
+  {
+    "id": "da43e4b0-3a6c-43ca-81e2-6854a0a2a72f",
+    "data": [
+      {
+        "text": "おなかすいた",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533636372
+  },
+  {
+    "id": "8cf45d63-1f34-4c91-8264-867298daa7d8",
+    "data": [
+      {
+        "text": "お腹すいた",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533636372
+  },
+  {
+    "id": "a91c41bc-f844-4dff-90e5-9e0626a97f75",
+    "data": [
+      {
+        "text": "おなか空いた",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1533636372
+  },
+  {
+    "id": "4224c763-c34c-4d56-a4a4-9f126d1f1681",
+    "data": [
+      {
+        "text": "お腹空いた",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533634805
+  }
+]

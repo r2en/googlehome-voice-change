@@ -1,0 +1,1477 @@
+[
+  {
+    "id": "ce5850c3-a781-4858-b036-5241c02eb6c6",
+    "data": [
+      {
+        "text": "いいえ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "3ebfd145-6bab-4aec-9cbe-8ab1090bb0b0",
+    "data": [
+      {
+        "text": "思わない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98028d3a-fbb2-42b5-9cc8-fe0c3e02588f",
+    "data": [
+      {
+        "text": "家",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "96b006e0-8771-465a-a77d-2d023b2b6812",
+    "data": [
+      {
+        "text": "ダメ家",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "469ac584-7dc8-4d13-ac3e-94fccb0c828d",
+    "data": [
+      {
+        "text": "おかしくないよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a4444b2-4bbd-41e6-aaf0-fa20c36303ee",
+    "data": [
+      {
+        "text": "ノーノー",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bcbb3c1b-ee78-493a-9701-b7240c3c55ea",
+    "data": [
+      {
+        "text": "だめる",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8b1f65d-30b7-4415-b7b6-1dba6d75c747",
+    "data": [
+      {
+        "text": "間違えた",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e2142804-ddb6-4d2a-851c-dfd2f4a904f4",
+    "data": [
+      {
+        "text": "大丈夫かな",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab8e2ac6-0b9d-46c6-901b-87e0fc9f25b7",
+    "data": [
+      {
+        "text": "そんなことないと思う",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe8f3235-8d41-421b-b496-d4913edadad8",
+    "data": [
+      {
+        "text": "がんばりません",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8a3c7ba-a0a3-4310-bc30-29f5a0d1fefa",
+    "data": [
+      {
+        "text": "面倒",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8e2da7b-d1e9-4276-a815-ebdd47514b4d",
+    "data": [
+      {
+        "text": "終わったよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c078b0d4-f9e7-492b-a758-929164c9672e",
+    "data": [
+      {
+        "text": "やりません",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b38b2e19-f999-487f-8f7b-2b0edd93715c",
+    "data": [
+      {
+        "text": "無理",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33072f5c-e263-4bec-bdc9-8c4e461add8a",
+    "data": [
+      {
+        "text": "無理はじめちゃだめ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5621bc71-134f-41a2-8c91-328771144745",
+    "data": [
+      {
+        "text": "いいえ めんどくさ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7fc779eb-8f7b-4706-a94b-80d949eb9392",
+    "data": [
+      {
+        "text": "面倒くさ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f04ffe7a-5ae3-49e5-9009-fd08e744a4cf",
+    "data": [
+      {
+        "text": "いやです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6941909d-8889-494b-9667-70b0ef78eff3",
+    "data": [
+      {
+        "text": "やりたくない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc31ee2c-2d4b-420d-8132-5345206c0612",
+    "data": [
+      {
+        "text": "やだね",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "0b96de4e-0e38-4736-8f12-43798fd85d56",
+    "data": [
+      {
+        "text": "めんどくさいっつってんだよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07cf0535-1b5d-4b72-8f17-b5d1f24aafc2",
+    "data": [
+      {
+        "text": "違うよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6190ddca-9ac5-4772-af0f-16c12c4c9fd3",
+    "data": [
+      {
+        "text": "やりたくねー",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ab72219-d9d5-49e5-8175-4637e43a892c",
+    "data": [
+      {
+        "text": "やだ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "eff4dcef-5502-46d4-81f9-696f680a29b8",
+    "data": [
+      {
+        "text": "できない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1534832465
+  },
+  {
+    "id": "934d7cee-7c3a-4e1e-8aed-4d50353f212a",
+    "data": [
+      {
+        "text": "頑張れません",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "5a5e82dc-30a9-4ec9-8bff-432a42196b22",
+    "data": [
+      {
+        "text": "頑張れない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "b75556d1-978e-4cce-a0c4-88c517bb6914",
+    "data": [
+      {
+        "text": "だめ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "adf4d0f5-7b4e-4dd8-a842-e26b94995b44",
+    "data": [
+      {
+        "text": "できません",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1534832465
+  },
+  {
+    "id": "207395da-272d-4d5a-8d63-7b9461d13c72",
+    "data": [
+      {
+        "text": "できるきがしない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1534832465
+  },
+  {
+    "id": "5041087e-5f71-48da-b093-404ddad56c8a",
+    "data": [
+      {
+        "text": "がんばれない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1534832465
+  },
+  {
+    "id": "3cc446a0-49de-4b93-823f-d06385d4553c",
+    "data": [
+      {
+        "text": "続けられないかも",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "868c5afe-bd23-4292-b4d6-7d7fc3df4eca",
+    "data": [
+      {
+        "text": "してない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "e9697c2a-67e1-4a20-ba66-99720b2ae726",
+    "data": [
+      {
+        "text": "食べてないよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "446c7992-df63-444d-b31a-6626aca675bc",
+    "data": [
+      {
+        "text": "とってない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "26bc7ba5-cbef-482a-89c2-b4940973d3c5",
+    "data": [
+      {
+        "text": "食べてない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "12609f3e-9b47-4cb6-9b21-bd053e3524a3",
+    "data": [
+      {
+        "text": "楽しいです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "a265ccc2-4634-4899-a62e-f5c2c0ac5c73",
+    "data": [
+      {
+        "text": "楽しいよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "aea7ee4d-22ee-43c5-a84b-f462d0bde1d3",
+    "data": [
+      {
+        "text": "楽しい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "f3f1b94a-0c55-4a38-87d5-e1fa0b69fec6",
+    "data": [
+      {
+        "text": "思ってません",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "ab1373db-a536-4887-979f-3f46cb1b15d0",
+    "data": [
+      {
+        "text": "思ってないよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "01d11534-a39b-4796-9c3d-4dcf8dd6fc03",
+    "data": [
+      {
+        "text": "思ってない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "f32320ef-f995-4055-ab24-06490dc61ef5",
+    "data": [
+      {
+        "text": "できてないよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "6941ad1f-85fa-4110-85b6-8bbfd18dddff",
+    "data": [
+      {
+        "text": "してないよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "04a560a5-7092-4f8f-a9e6-95eead2e5858",
+    "data": [
+      {
+        "text": "してません",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1534832465
+  },
+  {
+    "id": "bbccdc91-b60b-4aae-a3c7-bc50747a63ac",
+    "data": [
+      {
+        "text": "できてない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "80484c5f-0baa-4a6f-a0fb-0f627457622a",
+    "data": [
+      {
+        "text": "できてません",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "68c79a6a-492d-412c-9322-817a3c9999a7",
+    "data": [
+      {
+        "text": "知らん",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "38dda7c1-9f32-4447-8686-9e829127888e",
+    "data": [
+      {
+        "text": "知らなかった",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "8a533e0e-81cf-41a1-a4b6-8c6c5d96f8bc",
+    "data": [
+      {
+        "text": "知りません",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "372d5552-13bb-43a5-b8c7-ca8d46411989",
+    "data": [
+      {
+        "text": "知りませんでした",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "7624304f-35e5-41c8-906c-f652fd2edbe7",
+    "data": [
+      {
+        "text": "知らなかったです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "a61096be-f4a7-4c29-aed5-dfb0b58baebf",
+    "data": [
+      {
+        "text": "知らないよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "4e0ebb57-7413-45f1-91a5-27cb69de4a85",
+    "data": [
+      {
+        "text": "知らない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "b174c6fe-2b3c-4d99-b27b-cbb6d2568c43",
+    "data": [
+      {
+        "text": "知らなかったよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1534832465
+  },
+  {
+    "id": "dde1de05-4327-44b5-9120-ee523cefb7e5",
+    "data": [
+      {
+        "text": "なんでだよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "1c951d53-dd92-479a-991f-87cb59a27b76",
+    "data": [
+      {
+        "text": "言われないよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "accad047-67e3-4fa8-93d6-822fb73e19b4",
+    "data": [
+      {
+        "text": "言われません",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "21cec37b-db66-4823-b977-51c0bdae14ba",
+    "data": [
+      {
+        "text": "いわれない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "3c9c609a-18e7-4fdd-a486-002de7dcb28c",
+    "data": [
+      {
+        "text": "みたくもない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "0062b147-6842-423e-9fce-7c79cb7df5ee",
+    "data": [
+      {
+        "text": "みてません",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "78b40bf6-e0d5-416f-a6c3-70e4cd9cc925",
+    "data": [
+      {
+        "text": "みてないし",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "ade300cf-85af-4c1c-a3d7-6af17615704d",
+    "data": [
+      {
+        "text": "みてないよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "371d26b5-1207-4480-be6d-577628a70f3d",
+    "data": [
+      {
+        "text": "みてない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "0f568d36-8d6f-4fe3-9449-a0747d124728",
+    "data": [
+      {
+        "text": "にやけてないよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "aa68ea2a-5a3a-4f75-8c57-1c79202901ca",
+    "data": [
+      {
+        "text": "なにいってんの",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "df2d696e-4ee5-4b5a-8ad9-4e139f45010e",
+    "data": [
+      {
+        "text": "にやけてない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "9a4f8c3c-d14b-4b8b-baf1-a2701f27002b",
+    "data": [
+      {
+        "text": "いません",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "494afdb5-bc65-4590-a329-100c21e8ac96",
+    "data": [
+      {
+        "text": "いませんよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "2ae05fff-2276-45db-839e-1ab8a13f26ec",
+    "data": [
+      {
+        "text": "いないよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "54ad3aa1-6c52-460a-aeda-20ba60f5e258",
+    "data": [
+      {
+        "text": "いない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "b6fd6391-dd18-40cd-b587-509721bbf3cc",
+    "data": [
+      {
+        "text": "楽しくないです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "24312f5d-3e36-4de0-93be-21fd3657d280",
+    "data": [
+      {
+        "text": "たのしくないです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "7009dd49-fcbd-4c43-812f-af32199e79bf",
+    "data": [
+      {
+        "text": "たのしくない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "7e2926ef-a2d2-461e-9adb-1801f1201c43",
+    "data": [
+      {
+        "text": "うらやましい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "5e47431a-9940-4a94-b202-4528bcfef2d9",
+    "data": [
+      {
+        "text": "おかしくないと思うう",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "c1bad78b-2caf-4d7e-a884-2716a5c974f0",
+    "data": [
+      {
+        "text": "おかしくないです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "acb43c26-3bbe-4296-bd59-23a2359ba76a",
+    "data": [
+      {
+        "text": "おかしくない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "12603ba5-2853-41bf-a64d-941c6bb5149c",
+    "data": [
+      {
+        "text": "やさしくしてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "6767b496-d96a-4e78-8e88-41bd674c40fe",
+    "data": [
+      {
+        "text": "やさしくしてほしいです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "bfd9647d-fc5a-467b-893a-edc886ecb533",
+    "data": [
+      {
+        "text": "あんまり飲みません",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "f928b827-e82b-4ef6-b31f-36a17ba569c4",
+    "data": [
+      {
+        "text": "あんまり飲まないです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "ccb48e09-af7d-446d-8efa-3889be43e55f",
+    "data": [
+      {
+        "text": "飲みたくないです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "75a55821-45dc-4841-942b-486504c86ea3",
+    "data": [
+      {
+        "text": "なんで",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "7137e654-4d83-45fa-8351-5285947d7f39",
+    "data": [
+      {
+        "text": "意味わかんない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "4cda3b30-fc88-422f-96de-116ba381e26e",
+    "data": [
+      {
+        "text": "ありえない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "a9c42321-46a5-4ac5-8521-3aefaa9ead25",
+    "data": [
+      {
+        "text": "飲みたくない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "0e415ed9-6b04-4a51-b27c-3251cd0fe03f",
+    "data": [
+      {
+        "text": "飲まない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "540a0e5b-767b-4c2a-85e5-e07565290ace",
+    "data": [
+      {
+        "text": "ちょっとまって",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "7f46a5a4-f0bc-4de0-a4e4-950e8fe0d284",
+    "data": [
+      {
+        "text": "はじめないで",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "a4a26308-0449-45ca-b1b1-e8b4106399c8",
+    "data": [
+      {
+        "text": "やりました",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "f5d48843-b688-4fb9-8297-3d7861c7af26",
+    "data": [
+      {
+        "text": "さぼってないです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "2310db2c-ca68-4cab-a5e2-1679ed56e491",
+    "data": [
+      {
+        "text": "おぼえてないの？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "07f891a8-d903-4274-8dc3-0a15277ad656",
+    "data": [
+      {
+        "text": "やった",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "38c54c14-672b-43db-bb08-642576702559",
+    "data": [
+      {
+        "text": "やったよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "c7eb5be2-2e92-4317-b32e-66fe4aaa3d2d",
+    "data": [
+      {
+        "text": "さぼってない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "c0ac8893-ba9b-4111-889f-fb9720d677c6",
+    "data": [
+      {
+        "text": "頑張りたくないです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "a235a7f0-6129-4ae5-9129-4de29d2139e8",
+    "data": [
+      {
+        "text": "頑張りたくない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "f6a8b204-00b5-456e-9f16-a6a526837412",
+    "data": [
+      {
+        "text": "がんばらない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "f4db2a90-92a6-45c0-848e-4a418cf40477",
+    "data": [
+      {
+        "text": "そうゆうわけじゃない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "df9c96e0-9a3f-4b47-b023-ca5acd628810",
+    "data": [
+      {
+        "text": "そういうわけじゃない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "dc4fec0b-233f-4082-9b54-ce6479d026ac",
+    "data": [
+      {
+        "text": "会いたくない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "5b8ec787-d73d-4917-8855-e3a28a719924",
+    "data": [
+      {
+        "text": "違う",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "93882da5-3df4-4eb6-97da-8991db8432f7",
+    "data": [
+      {
+        "text": "まって",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1534832465
+  },
+  {
+    "id": "317d395f-ab81-41a9-9ae2-24b723ce4210",
+    "data": [
+      {
+        "text": "約束しません",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "bff6fa77-5fb3-40e6-9ccb-de0652ac7a26",
+    "data": [
+      {
+        "text": "約束しない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "2d4df13e-965c-4d2b-9ba3-b4e54f0f56bd",
+    "data": [
+      {
+        "text": "約束できません",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "6f16e3d7-d316-4f9f-acfa-4e3100660b11",
+    "data": [
+      {
+        "text": "約束できない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "ef917873-27cc-41a2-babb-0e8a5971ab5c",
+    "data": [
+      {
+        "text": "しません",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "43ac8df3-b374-47a6-b3df-67384f7d6bed",
+    "data": [
+      {
+        "text": "しない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1534832465
+  },
+  {
+    "id": "61a76c07-dd00-4881-ade8-bd0a04627268",
+    "data": [
+      {
+        "text": "いや",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "b39bc81a-488c-413f-a7c2-1348bc77c86d",
+    "data": [
+      {
+        "text": "無理です",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "8fe8f7f5-6a6a-4d79-bd70-43ce58a38500",
+    "data": [
+      {
+        "text": "だめです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "d5839e3e-8886-44b9-9fa6-08f7fe9ae8ff",
+    "data": [
+      {
+        "text": "のー",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "76ed034f-f5b8-420c-aa65-07a373a24ec0",
+    "data": [
+      {
+        "text": "ノー",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "24fdd502-dc0d-4dec-95dd-4d8585b1a1e1",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "ab36418a-c26d-4e55-b292-846e1549ecb4",
+    "data": [
+      {
+        "text": "よくない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "b59f804b-798d-475a-a177-9e76bf8e9120",
+    "data": [
+      {
+        "text": "大丈夫じゃない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "6722d910-7198-4117-991a-ffc8c379d372",
+    "data": [
+      {
+        "text": "むりだよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "e6158e6d-b6fe-4599-9e96-849ba237f5a1",
+    "data": [
+      {
+        "text": "だめだよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1534832465
+  },
+  {
+    "id": "9b870f44-220c-4024-8613-703f94c6bc7b",
+    "data": [
+      {
+        "text": "ううん",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  },
+  {
+    "id": "406d7096-19f7-4d37-b9d9-a7c6eb204317",
+    "data": [
+      {
+        "text": "むり",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832465
+  }
+]

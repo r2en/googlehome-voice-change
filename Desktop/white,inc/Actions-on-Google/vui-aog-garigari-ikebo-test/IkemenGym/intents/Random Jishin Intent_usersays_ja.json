@@ -1,0 +1,98 @@
+[
+  {
+    "id": "e9b59924-218b-4d39-90d4-33fb29326423",
+    "data": [
+      {
+        "text": "私じゃ無理",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103939
+  },
+  {
+    "id": "ca0e29b4-917a-4e29-bdae-88173dced65f",
+    "data": [
+      {
+        "text": "私には出来ない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103939
+  },
+  {
+    "id": "551b7f82-f849-4b88-b9db-bd05464f5f82",
+    "data": [
+      {
+        "text": "出来ないよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103939
+  },
+  {
+    "id": "531a7cb6-c773-41a1-afbf-e3fd53b96a10",
+    "data": [
+      {
+        "text": "じしんがありません",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103939
+  },
+  {
+    "id": "d2757d9d-4a3b-40fb-bb2e-f567f37a7121",
+    "data": [
+      {
+        "text": "じしんない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103939
+  },
+  {
+    "id": "08cc9fac-1eac-4d94-a11f-d26b53fce3cd",
+    "data": [
+      {
+        "text": "じしんがない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103939
+  },
+  {
+    "id": "c497db1f-7454-44f8-ae8e-f47b1a6f4480",
+    "data": [
+      {
+        "text": "自信がない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103939
+  },
+  {
+    "id": "ee96cc39-e35b-4fba-914f-b2c9466dc5b6",
+    "data": [
+      {
+        "text": "自信ない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533634841
+  }
+]

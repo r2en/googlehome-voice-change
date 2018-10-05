@@ -1,0 +1,39 @@
+{
+  "id": "d4d90d53-0d24-46a2-ba81-0d25e3524ba9",
+  "name": "Work Out Intent",
+  "auto": true,
+  "contexts": [
+    "workout"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c7028134-28b9-4c47-9ed0-fa7c0f7aba7e",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "workout",
+          "value": "$workout",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534160145,
+  "fallbackIntent": false,
+  "events": []
+}

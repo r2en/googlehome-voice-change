@@ -1,0 +1,47 @@
+{
+  "id": "f8343c9d-11d0-4f68-bba4-0ae6e62b2da7",
+  "name": "Meet you Intent",
+  "auto": true,
+  "contexts": [
+    "meetyou"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fbb45a60-85f4-420f-99a9-edffe91c163e",
+          "required": false,
+          "dataType": "@narusekei",
+          "name": "narusekei",
+          "value": "$narusekei",
+          "isList": false
+        },
+        {
+          "id": "bb7c78a8-7ebf-4f51-ae9f-06f68d837548",
+          "required": false,
+          "dataType": "@meet",
+          "name": "meet",
+          "value": "$meet",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535969156,
+  "fallbackIntent": false,
+  "events": []
+}

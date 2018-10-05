@@ -1,0 +1,39 @@
+{
+  "id": "7652ca53-fc0d-4feb-92d6-798d8e8dd2c5",
+  "name": "Boot Intent",
+  "auto": true,
+  "contexts": [
+    "boot"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3f86688f-e3b7-4618-9fb6-cdc208eaf4de",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "boot",
+          "value": "$boot",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534146424,
+  "fallbackIntent": false,
+  "events": []
+}

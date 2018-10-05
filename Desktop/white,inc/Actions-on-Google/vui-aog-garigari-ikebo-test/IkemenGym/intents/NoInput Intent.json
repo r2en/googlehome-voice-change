@@ -1,0 +1,35 @@
+{
+  "id": "4306a0a3-9115-4710-80cc-48845ac38e84",
+  "name": "NoInput Intent",
+  "auto": true,
+  "contexts": [
+    "noinput"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "no_input",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": "NoInputだよーん"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537841866,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_NO_INPUT"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+[
+  {
+    "id": "854f6dc3-3427-4ee3-a560-8f6dd12ceb12",
+    "data": [
+      {
+        "text": "なるせくん",
+        "alias": "narusekei",
+        "meta": "@narusekei",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1534833567
+  },
+  {
+    "id": "032df552-55d2-4cf2-882a-ad5c11e091d8",
+    "data": [
+      {
+        "text": "お前",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c79ab64-8db6-43bf-9a48-8b04fb936bf8",
+    "data": [
+      {
+        "text": "おーい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2baa1c4d-dd39-4562-bb17-954e94d79da5",
+    "data": [
+      {
+        "text": "成瀬くん",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1533621687
+  },
+  {
+    "id": "49d048c4-70a2-437b-888d-332cc8327836",
+    "data": [
+      {
+        "text": "成瀬",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103266
+  },
+  {
+    "id": "ccff67f1-a779-4be1-a102-66dfd5a8f073",
+    "data": [
+      {
+        "text": "成瀬君",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103266
+  }
+]

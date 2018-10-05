@@ -1,0 +1,28 @@
+{
+  "id": "ffbe757b-73b8-4104-be79-ee91bcfc16c7",
+  "name": "Random Curry Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535103729,
+  "fallbackIntent": false,
+  "events": []
+}

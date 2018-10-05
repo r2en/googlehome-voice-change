@@ -1,0 +1,16 @@
+[
+  {
+    "id": "abb132d5-3e6f-46da-9445-df6aa359fdca",
+    "data": [
+      {
+        "text": "再起動じゃい",
+        "alias": "boot",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534146424
+  }
+]

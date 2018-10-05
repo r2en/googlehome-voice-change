@@ -1,0 +1,39 @@
+{
+  "id": "398b6393-0e9a-4dbd-ac6c-63d0884f0957",
+  "name": "Level Intent",
+  "auto": true,
+  "contexts": [
+    "level"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3a2f13e2-d3ac-45b3-a836-b8d7e56da674",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "level",
+          "value": "$level",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534150675,
+  "fallbackIntent": false,
+  "events": []
+}

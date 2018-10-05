@@ -1,0 +1,30 @@
+[
+  {
+    "id": "953aca71-837b-44f3-8210-8315af2a4a9b",
+    "data": [
+      {
+        "text": "はい",
+        "alias": "workout",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "b9f7f49e-f2da-40d4-b787-2e39e3a2c6e5",
+    "data": [
+      {
+        "text": "ハッスルハッスル",
+        "alias": "workout",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534159104
+  }
+]

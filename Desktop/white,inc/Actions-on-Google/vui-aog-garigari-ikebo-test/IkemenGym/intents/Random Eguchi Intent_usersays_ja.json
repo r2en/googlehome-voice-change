@@ -1,0 +1,223 @@
+[
+  {
+    "id": "46d205f8-94d9-4f5b-9119-5b40b534ca9d",
+    "data": [
+      {
+        "text": "出口",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103666
+  },
+  {
+    "id": "fe514d57-80c5-4a25-a7f2-0bc1467fac37",
+    "data": [
+      {
+        "text": "レグ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103666
+  },
+  {
+    "id": "9a7d6234-afcd-4508-b528-46201546f238",
+    "data": [
+      {
+        "text": "デグー",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103666
+  },
+  {
+    "id": "8a44d437-a19f-424b-9bbd-65370e070fb7",
+    "data": [
+      {
+        "text": "セグ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103666
+  },
+  {
+    "id": "165f72ef-060c-4268-9fb9-9391c1c2e40e",
+    "data": [
+      {
+        "text": "Dell",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103666
+  },
+  {
+    "id": "cb0d899a-24b4-4c4d-acd0-f86a1772ebc1",
+    "data": [
+      {
+        "text": "L",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103666
+  },
+  {
+    "id": "26209b1a-5ea9-4eea-b1ce-fc05d26eebe2",
+    "data": [
+      {
+        "text": "たくにゃん",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833720
+  },
+  {
+    "id": "67818da9-ab43-44a2-ab0a-b58f44f9eb2c",
+    "data": [
+      {
+        "text": "えぐっち",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833720
+  },
+  {
+    "id": "f1728716-e57e-4836-8fe1-b65c72743d76",
+    "data": [
+      {
+        "text": "えぐぅ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833720
+  },
+  {
+    "id": "20aa7dc0-bcfe-4034-812c-2c2ad3ca3389",
+    "data": [
+      {
+        "text": "えぐ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833720
+  },
+  {
+    "id": "a863f018-35e5-4bdc-a364-f196fea9850e",
+    "data": [
+      {
+        "text": "江口卓也",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833720
+  },
+  {
+    "id": "9b2f134a-d3ab-4621-9f1b-3eaeb78089de",
+    "data": [
+      {
+        "text": "卓也",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833720
+  },
+  {
+    "id": "3aef9da1-ce59-496f-a03c-41d70b6d3621",
+    "data": [
+      {
+        "text": "たくや",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833720
+  },
+  {
+    "id": "8fe0a191-e0e9-4117-b064-9554c2b96d4b",
+    "data": [
+      {
+        "text": "江口卓也",
+        "userDefined": false
+      },
+      {
+        "text": "さん",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833720
+  },
+  {
+    "id": "1b1ad8c6-1c8e-4fa0-9f96-44fb1346f689",
+    "data": [
+      {
+        "text": "江口",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833720
+  },
+  {
+    "id": "0df39713-92ed-47db-9162-deed66cd9951",
+    "data": [
+      {
+        "text": "えぐちさん",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533634717
+  },
+  {
+    "id": "b8bebfbd-c71f-4672-bc5a-33660f06e074",
+    "data": [
+      {
+        "text": "エグチサン",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533634717
+  },
+  {
+    "id": "6995400d-2937-4ccd-b2e8-55655979a8ea",
+    "data": [
+      {
+        "text": "江口さん",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533634717
+  }
+]
