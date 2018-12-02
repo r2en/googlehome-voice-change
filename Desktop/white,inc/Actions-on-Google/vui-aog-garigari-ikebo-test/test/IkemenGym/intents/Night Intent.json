@@ -1,0 +1,30 @@
+{
+  "id": "3b9c40b3-2b90-40c5-95dc-4e262b1cab5e",
+  "name": "Night Intent",
+  "auto": true,
+  "contexts": [
+    "night"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534832868,
+  "fallbackIntent": false,
+  "events": []
+}

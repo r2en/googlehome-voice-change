@@ -1,0 +1,28 @@
+{
+  "id": "8579ab1a-73a9-401f-aba7-83b2b057090d",
+  "name": "Random Homete Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535103566,
+  "fallbackIntent": false,
+  "events": []
+}

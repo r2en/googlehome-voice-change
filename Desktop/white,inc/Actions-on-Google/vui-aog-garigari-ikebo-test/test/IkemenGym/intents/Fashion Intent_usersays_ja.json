@@ -1,0 +1,146 @@
+[
+  {
+    "id": "05e0c1c6-4512-4f3a-ae86-8504c60cf954",
+    "data": [
+      {
+        "text": "着たい服がある",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "32828f00-8754-44f7-b091-cc396cd61ebf",
+    "data": [
+      {
+        "text": "服を着るため",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832790
+  },
+  {
+    "id": "89b7ca18-3165-4513-b6c7-09267aee0d2a",
+    "data": [
+      {
+        "text": "着たい服を着る",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832790
+  },
+  {
+    "id": "856ab9c4-c6bc-4294-9950-6cc8e7972dc9",
+    "data": [
+      {
+        "text": "着たい服のため",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832790
+  },
+  {
+    "id": "c4dc66e8-8c2a-4d5f-bc0c-02fbc71922e3",
+    "data": [
+      {
+        "text": "着たい服の為",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1534832790
+  },
+  {
+    "id": "808d6a16-3f4f-47bc-908c-2ca0562ff532",
+    "data": [
+      {
+        "text": "服が着たいの",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832790
+  },
+  {
+    "id": "49ebba42-7997-4323-8b38-72a8030cd86a",
+    "data": [
+      {
+        "text": "着たい服があるの",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832790
+  },
+  {
+    "id": "830238e4-21ff-4c82-aae1-8aab8c23f6d8",
+    "data": [
+      {
+        "text": "服が着たいです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832790
+  },
+  {
+    "id": "af7f1ab7-da86-499b-b104-936d13f6ee0f",
+    "data": [
+      {
+        "text": "服が着たい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832790
+  },
+  {
+    "id": "05ab3b86-bb78-4e3f-b405-b87b821eb9cd",
+    "data": [
+      {
+        "text": "着たい服があるんです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832790
+  },
+  {
+    "id": "c4e7a807-6a9c-4d3d-be94-0b53d73259dc",
+    "data": [
+      {
+        "text": "着たい服があります",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832790
+  },
+  {
+    "id": "ee10e197-2332-492b-90cd-62e86dae5e2a",
+    "data": [
+      {
+        "text": "着たい服",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832790
+  }
+]

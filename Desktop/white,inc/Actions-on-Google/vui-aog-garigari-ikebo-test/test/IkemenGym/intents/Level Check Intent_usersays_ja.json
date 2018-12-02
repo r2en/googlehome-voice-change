@@ -1,0 +1,134 @@
+[
+  {
+    "id": "4742a466-1d28-4354-95f2-0f1514b3c434",
+    "data": [
+      {
+        "text": "を確認したい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c725a616-2fdd-4a24-a524-616ea46c2aac",
+    "data": [
+      {
+        "text": "レベルを確認したい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1534820638
+  },
+  {
+    "id": "aa90d324-e138-4a8b-a882-71c048cb14f6",
+    "data": [
+      {
+        "text": "レベル 丘 クニン したい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bcb22830-6a3d-49a7-9f22-2e43a1b11d5b",
+    "data": [
+      {
+        "text": "いま何級ですか？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833183
+  },
+  {
+    "id": "cc63139a-2c9c-4103-b863-0f092d31db57",
+    "data": [
+      {
+        "text": "メニューを確認したいです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833183
+  },
+  {
+    "id": "de1f5815-8ece-4fbb-ac57-4f2fdee341d5",
+    "data": [
+      {
+        "text": "いま何級",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833183
+  },
+  {
+    "id": "2d7c8b3e-24a0-4867-8e54-476ffcd4faa0",
+    "data": [
+      {
+        "text": "メニューを客員んしたいです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833183
+  },
+  {
+    "id": "18cac5eb-8761-4262-a026-00a28f77fab3",
+    "data": [
+      {
+        "text": "メニューを確認したい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833183
+  },
+  {
+    "id": "6c55b245-791b-43b2-a4de-812167469e98",
+    "data": [
+      {
+        "text": "レベルを確認したいです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833183
+  },
+  {
+    "id": "a1fc7cac-6442-43e6-a9c4-670ab6533bab",
+    "data": [
+      {
+        "text": "レベルを確認",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534820638
+  },
+  {
+    "id": "98189d4e-d3c4-4f07-a7dd-2015eae6df8d",
+    "data": [
+      {
+        "text": "レベル確認",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833183
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "11036fc8-8518-4a37-a7f6-18422f1203ce",
+    "data": [
+      {
+        "text": "待ってて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b99ab44e-3317-41ba-99e3-0a7e5a6187e1",
+    "data": [
+      {
+        "text": "疲れました",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f06decf-fcda-4d1e-b2ef-f7060b9bccd7",
+    "data": [
+      {
+        "text": "ちょっと待って",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 1535104414
+  },
+  {
+    "id": "bdb1984d-2903-4e71-abc2-55323cd43995",
+    "data": [
+      {
+        "text": "大休憩 休憩",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "77b92f95-2183-4634-a44f-2fa934f65b3c",
+    "data": [
+      {
+        "text": "休憩したい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1535104414
+  },
+  {
+    "id": "5ebadc55-9158-4a53-a90c-40094b1efab4",
+    "data": [
+      {
+        "text": "よし 休憩",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84b9be13-a8f3-4bea-b74e-d0bfa780713a",
+    "data": [
+      {
+        "text": "喉乾いたよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee2088b8-a03c-463e-8519-d87caca8e621",
+    "data": [
+      {
+        "text": "休憩 休憩",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63264e8a-a86c-4033-8861-6bfab6520115",
+    "data": [
+      {
+        "text": "息吸って",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535104414
+  },
+  {
+    "id": "aed616c6-fb96-472c-845b-f72b843082d0",
+    "data": [
+      {
+        "text": "深呼吸したい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535104414
+  },
+  {
+    "id": "7b81c328-b5c7-45bc-83c3-e6373c6eaa2e",
+    "data": [
+      {
+        "text": "深呼吸",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535104414
+  },
+  {
+    "id": "502a3ff7-c4ba-47c2-9f37-6d01dc4dba8f",
+    "data": [
+      {
+        "text": "少し待って",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535104414
+  },
+  {
+    "id": "bcf72b13-9907-4c71-b2c9-13a4a1450033",
+    "data": [
+      {
+        "text": "休憩ｋ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535104414
+  },
+  {
+    "id": "912bf29b-d862-43fd-8eaa-ef07da4bd05a",
+    "data": [
+      {
+        "text": "飲んで",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535104414
+  },
+  {
+    "id": "03ea6a21-7403-4630-b74e-dc5ab73967c0",
+    "data": [
+      {
+        "text": "喉乾いた",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535104414
+  },
+  {
+    "id": "981839c2-777b-4429-8b46-98406925388b",
+    "data": [
+      {
+        "text": "休ませて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535104414
+  },
+  {
+    "id": "e34c68e4-4fcd-4f87-98e0-bb313f25e35c",
+    "data": [
+      {
+        "text": "休みたい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534834380
+  },
+  {
+    "id": "dd362409-a0aa-413d-8030-2d41d509e892",
+    "data": [
+      {
+        "text": "待って",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535104414
+  },
+  {
+    "id": "d9e4db8f-c87e-4399-b3ca-07ca7e645450",
+    "data": [
+      {
+        "text": "ちょっとまって",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535104414
+  },
+  {
+    "id": "f175a29f-d4d5-4cc4-95b8-fe0dabe7f745",
+    "data": [
+      {
+        "text": "ちょっと休みたい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534834380
+  },
+  {
+    "id": "a7bd1aca-61a7-4033-b19f-36b402ab8342",
+    "data": [
+      {
+        "text": "ちょっと休みたいです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534834380
+  },
+  {
+    "id": "09e2540a-bf3d-4f8e-9a24-8973b44daaa2",
+    "data": [
+      {
+        "text": "ちょっとやすみたい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534834380
+  },
+  {
+    "id": "d358ee30-46c0-4a4a-a9a6-561f0decf4a4",
+    "data": [
+      {
+        "text": "休みたいです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534834380
+  },
+  {
+    "id": "bb7a8891-64cc-48fe-9184-37ab5ba5aac4",
+    "data": [
+      {
+        "text": "水飲みたい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1534834380
+  },
+  {
+    "id": "5b53b7a0-ce10-46b7-b8a8-1ec80a2f01c8",
+    "data": [
+      {
+        "text": "一休み",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533634971
+  }
+]

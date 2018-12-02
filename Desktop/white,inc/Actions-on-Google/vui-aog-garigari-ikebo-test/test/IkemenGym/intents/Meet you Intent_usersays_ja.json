@@ -1,0 +1,329 @@
+[
+  {
+    "id": "5c9581e2-c683-408f-baf2-c314aae72b63",
+    "data": [
+      {
+        "text": "成瀬くん",
+        "alias": "narusekei",
+        "meta": "@narusekei",
+        "userDefined": true
+      },
+      {
+        "text": "に",
+        "userDefined": false
+      },
+      {
+        "text": "会いたいから",
+        "alias": "meet",
+        "meta": "@meet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7f82f8a3-2c41-44dc-afe1-170102101453",
+    "data": [
+      {
+        "text": "成瀬くん",
+        "alias": "narusekei",
+        "meta": "@narusekei",
+        "userDefined": false
+      },
+      {
+        "text": "に",
+        "userDefined": false
+      },
+      {
+        "text": "会いたいから",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "23f8538c-fc81-4b1d-920b-38e65a6b534a",
+    "data": [
+      {
+        "text": "会いたかったから",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1969a098-3194-429b-9a18-9de027b2a112",
+    "data": [
+      {
+        "text": "会いたかった",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d502a915-f685-476c-933e-2d128d964deb",
+    "data": [
+      {
+        "text": "会いたい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ce65598-43d8-4714-abca-b1bbfca39e6e",
+    "data": [
+      {
+        "text": "成瀬くん",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "に",
+        "userDefined": false
+      },
+      {
+        "text": "会いたいから",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9691642-4dea-4935-8a0e-f742f64b9bb2",
+    "data": [
+      {
+        "text": "会いに来ただけ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "adc5d965-126f-465e-ab8a-593b719359d3",
+    "data": [
+      {
+        "text": "会いに来ました",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "d9ef56bf-a31d-4cb5-8afa-608e3c3fc3cc",
+    "data": [
+      {
+        "text": "会いに来たよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "212c0008-80a0-46ac-98cd-ba337dbf29fd",
+    "data": [
+      {
+        "text": "推しに会うため",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535969156
+  },
+  {
+    "id": "428e5486-0eea-4f2a-a76f-f5aa2cf4f5dc",
+    "data": [
+      {
+        "text": "推しに",
+        "userDefined": false
+      },
+      {
+        "text": "会いたいから",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535969156
+  },
+  {
+    "id": "8fcaab49-6aba-44a2-bd88-2b3ab68666ca",
+    "data": [
+      {
+        "text": "成瀬くん",
+        "alias": "narusekei",
+        "meta": "@narusekei",
+        "userDefined": false
+      },
+      {
+        "text": "に",
+        "userDefined": false
+      },
+      {
+        "text": "会うためです",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1535622462
+  },
+  {
+    "id": "dd4cc073-d009-463b-9258-b76b5092e9ce",
+    "data": [
+      {
+        "text": "成瀬くん",
+        "alias": "narusekei",
+        "meta": "@narusekei",
+        "userDefined": false
+      },
+      {
+        "text": "に",
+        "userDefined": false
+      },
+      {
+        "text": "会うためだよ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535622462
+  },
+  {
+    "id": "192cf0e2-8f3b-421b-982b-71764e8f6ce1",
+    "data": [
+      {
+        "text": "成瀬くん",
+        "alias": "narusekei",
+        "meta": "@narusekei",
+        "userDefined": false
+      },
+      {
+        "text": "に",
+        "userDefined": false
+      },
+      {
+        "text": "会いたいからだよ",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1535622462
+  },
+  {
+    "id": "248b5be1-a51a-40b0-b1e0-b7980ef0405d",
+    "data": [
+      {
+        "text": "成瀬くん",
+        "alias": "narusekei",
+        "meta": "@narusekei",
+        "userDefined": false
+      },
+      {
+        "text": "に",
+        "userDefined": false
+      },
+      {
+        "text": "会いたいからです",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535622462
+  },
+  {
+    "id": "58c0657b-4b0a-4f02-aed6-1c2cd1444d08",
+    "data": [
+      {
+        "text": "成瀬くん",
+        "alias": "narusekei",
+        "meta": "@narusekei",
+        "userDefined": false
+      },
+      {
+        "text": "に",
+        "userDefined": false
+      },
+      {
+        "text": "会うため",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535622462
+  },
+  {
+    "id": "3ce363be-c791-42f4-b09f-dcc51ee0ba9d",
+    "data": [
+      {
+        "text": "成瀬くん",
+        "alias": "narusekei",
+        "meta": "@narusekei",
+        "userDefined": false
+      },
+      {
+        "text": "に会いたいから",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535622462
+  },
+  {
+    "id": "ae667e71-3c74-48b3-8989-55a8a737e080",
+    "data": [
+      {
+        "text": "なるせくん",
+        "alias": "narusekei",
+        "meta": "@narusekei",
+        "userDefined": true
+      },
+      {
+        "text": "に",
+        "userDefined": false
+      },
+      {
+        "text": "会いたいから",
+        "alias": "meet",
+        "meta": "@meet",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534829917
+  }
+]

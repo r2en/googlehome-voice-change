@@ -1,0 +1,28 @@
+{
+  "id": "1879c3da-1bb9-4caa-b0e5-c1f9a8ba3920",
+  "name": "Random Peko Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535103885,
+  "fallbackIntent": false,
+  "events": []
+}

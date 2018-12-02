@@ -1,0 +1,30 @@
+{
+  "id": "7b191ef8-3e79-4635-b553-be357a0f1a32",
+  "name": "Fashion Intent",
+  "auto": true,
+  "contexts": [
+    "fashion"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534832790,
+  "fallbackIntent": false,
+  "events": []
+}

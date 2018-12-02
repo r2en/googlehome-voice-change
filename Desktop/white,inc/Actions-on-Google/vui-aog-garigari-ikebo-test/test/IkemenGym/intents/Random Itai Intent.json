@@ -1,0 +1,28 @@
+{
+  "id": "e48ee4fb-a5f3-44b0-b45a-082bb50ee6b7",
+  "name": "Random Itai Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535104016,
+  "fallbackIntent": false,
+  "events": []
+}

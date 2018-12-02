@@ -1,0 +1,146 @@
+[
+  {
+    "id": "219b0346-0f9d-4c47-836b-c910ca49f682",
+    "data": [
+      {
+        "text": " カレー",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "updated": 1533634742
+  },
+  {
+    "id": "cb52d0a0-cd10-4cce-a1e5-d42792d08a58",
+    "data": [
+      {
+        "text": "カレーライス食べますか",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a89dea7-cab6-49af-b5ae-b56fd627eb0a",
+    "data": [
+      {
+        "text": "かれー",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103729
+  },
+  {
+    "id": "6c27547b-3603-4e55-a6ac-92751fb1588c",
+    "data": [
+      {
+        "text": "カレー食べない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103729
+  },
+  {
+    "id": "0e004906-96ec-4c01-950a-51ae33e5573d",
+    "data": [
+      {
+        "text": "インドカレー",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103729
+  },
+  {
+    "id": "ff4481a2-0ad3-4c39-9c59-7075b826de1e",
+    "data": [
+      {
+        "text": "蕎麦屋のカレー",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103729
+  },
+  {
+    "id": "2aba41a6-52c4-4fc0-9370-dd697bf3309c",
+    "data": [
+      {
+        "text": "カレードリア",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103729
+  },
+  {
+    "id": "56ba2dcf-201a-4aa7-ab21-8923380a0c88",
+    "data": [
+      {
+        "text": "カレーライス",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103729
+  },
+  {
+    "id": "76e5d5bf-08d8-4109-b2f1-548f925aebb4",
+    "data": [
+      {
+        "text": "カレー好き",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103729
+  },
+  {
+    "id": "9dae003e-ed8b-4813-9b12-2824e7908349",
+    "data": [
+      {
+        "text": "カレーは好きですか？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103729
+  },
+  {
+    "id": "307eeefd-01ae-4f7f-8226-1ea101a59d6b",
+    "data": [
+      {
+        "text": "カレー好き？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103729
+  },
+  {
+    "id": "d8f0c00c-8fc9-419d-9179-6e1d3ab5e5e0",
+    "data": [
+      {
+        "text": "カレー食べたい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103729
+  }
+]

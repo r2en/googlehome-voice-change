@@ -1,0 +1,28 @@
+{
+  "id": "75161bf4-b703-47fa-8d49-645db15daa56",
+  "name": "Random Yasumi Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536051675,
+  "fallbackIntent": false,
+  "events": []
+}

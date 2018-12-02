@@ -1,0 +1,60 @@
+//直前の質問は実装済 //直前のintentはここからだせるのではないか？ループで全部あるものを見つけるしかなさそう？
+{
+  "google_assistant_input_type_touch": {
+    "name": "projects/ikemengym/agent/sessions/1534751746570/contexts/google_assistant_input_type_touch"
+  },
+  "no": {
+    "name": "projects/ikemengym/agent/sessions/1534751746570/contexts/no"
+  },
+  "level": {
+    "name": "projects/ikemengym/agent/sessions/1534751746570/contexts/level"
+  },
+  "actions_capability_screen_output": {
+    "name": "projects/ikemengym/agent/sessions/1534751746570/contexts/actions_capability_screen_output"
+  },
+  "yes": {
+    "name": "projects/ikemengym/agent/sessions/1534751746570/contexts/yes"
+  },
+  "_actions_on_google": {
+    "name": "projects/ikemengym/agent/sessions/1534751746570/contexts/_actions_on_google",
+    "lifespan": 98,
+    "parameters": {
+      "data": "{
+        \"yes\":null,
+        \"no\":null,
+        \"thello\":null,
+        \"boot\":0,
+        \"level\":1,
+        \"beginner\":0,
+        \"intermediate\":0,
+        \"advance\":0,
+        \"workout\":0,
+        \"interval\":0,
+        \"firstLogin\":0,
+        \"night\":0,
+        \"goodnight\":0,
+        \"reason\":0,
+        \"love\":0,
+        \"meetyou\":0,
+        \"another\":0,
+        \"fashion\":0,
+        \"goal\":0,
+        \"againreason\":0,
+        \"num\":9,
+        \"ssml\":{
+          \"text\":\"よし。これでトレーニングメニューの設定は完了。あ、そうそう、俺とのトレーニング中は「無理」とか言わないで「はい」か「イエス」か「よろこんで」で返事すること。\\n…は、そんな顔すんなよ。まぁどうしてもつらかったり無理なときは「やめる」って言って良いからさ。じゃあ、始めるけど覚悟はいいか？返事は？\",
+          \"speech\":\"<speak><audio src='https://ikemengym.firebaseapp.com/AUDIO/kakugo_question.mp3'/></speak>\"
+        }
+      }"
+    }
+  },
+  "actions_capability_audio_output": {
+    "name": "projects/ikemengym/agent/sessions/1534751746570/contexts/actions_capability_audio_output"
+  },
+  "actions_capability_web_browser": {
+    "name": "projects/ikemengym/agent/sessions/1534751746570/contexts/actions_capability_web_browser"
+  },
+  "actions_capability_media_response_audio": {
+    "name": "projects/ikemengym/agent/sessions/1534751746570/contexts/actions_capability_media_response_audio"
+  }
+}

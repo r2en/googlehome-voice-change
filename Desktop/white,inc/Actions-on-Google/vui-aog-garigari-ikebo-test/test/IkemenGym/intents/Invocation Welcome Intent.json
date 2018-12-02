@@ -1,0 +1,28 @@
+{
+  "id": "699e6651-4d9a-4fc2-848e-d44b041bc259",
+  "name": "Invocation Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": "あなたの担当トレーナーをお呼びしますね。"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535003324,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "c6ae31b9-1154-44da-814c-589ec02bcc52",
+  "name": "Random Ikemen Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535104152,
+  "fallbackIntent": false,
+  "events": []
+}

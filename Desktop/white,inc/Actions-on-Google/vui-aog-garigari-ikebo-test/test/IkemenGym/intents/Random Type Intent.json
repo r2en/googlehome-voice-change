@@ -1,0 +1,28 @@
+{
+  "id": "2b8dca30-25c4-41b6-8639-e5c187bf4b02",
+  "name": "Random Type Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535102807,
+  "fallbackIntent": false,
+  "events": []
+}

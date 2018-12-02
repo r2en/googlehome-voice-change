@@ -1,0 +1,52 @@
+[
+  {
+    "id": "0c3a2552-f76e-446e-85ad-49fce258e51e",
+    "data": [
+      {
+        "text": "おやすみなさい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "eded3cee-74f9-44c8-9e1b-2ff7eb1c32ad",
+    "data": [
+      {
+        "text": "やすみなさい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "230eec62-2080-4d6d-a1ef-79d2352431ba",
+    "data": [
+      {
+        "text": "おやすみ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "399693f4-223f-41a6-841e-ac6f6967e830",
+    "data": [
+      {
+        "text": "グッナイ☆",
+        "alias": "goodnight",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534208263
+  }
+]

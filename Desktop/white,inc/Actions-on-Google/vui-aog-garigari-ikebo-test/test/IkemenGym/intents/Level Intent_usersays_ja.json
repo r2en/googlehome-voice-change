@@ -1,0 +1,58 @@
+[
+  {
+    "id": "43435b91-2611-47ae-b18a-d561ee084df5",
+    "data": [
+      {
+        "text": "はい",
+        "alias": "level",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b27a976b-4564-4cf4-81f7-1b5611001dbc",
+    "data": [
+      {
+        "text": "上級",
+        "alias": "level",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be37babf-98e8-436c-beb8-acc149f0d9c1",
+    "data": [
+      {
+        "text": "中級",
+        "alias": "level",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25e972d3-c108-4bf5-904f-548ad63d87fa",
+    "data": [
+      {
+        "text": "レベル",
+        "alias": "level",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534084640
+  }
+]

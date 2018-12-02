@@ -1,0 +1,31 @@
+{
+  "id": "efc0a7c7-54ae-42d1-962f-3f9a5d9c384c",
+  "name": "Another Menu Intent",
+  "auto": true,
+  "contexts": [
+    "another"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535968481,
+  "fallbackIntent": false,
+  "events": []
+}

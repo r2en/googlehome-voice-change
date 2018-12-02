@@ -1,0 +1,74 @@
+[
+  {
+    "id": "0e5b415b-5395-4ed4-874d-86aa63359af7",
+    "data": [
+      {
+        "text": "上級",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "49990cf2-ed2f-4852-9797-ae26736deee6",
+    "data": [
+      {
+        "text": "上級で",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "20eb9069-8838-4977-b87d-78f10a438e51",
+    "data": [
+      {
+        "text": "上級です",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535968466
+  },
+  {
+    "id": "43fe99f4-61d2-47c9-804e-f35678348eef",
+    "data": [
+      {
+        "text": "上級がいいです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535968466
+  },
+  {
+    "id": "17c9193d-1a8e-449c-bfeb-dc8afd07acfe",
+    "data": [
+      {
+        "text": "上級でお願いします",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535968466
+  },
+  {
+    "id": "f3b5108d-8bc2-4483-b39d-e87a479b6781",
+    "data": [
+      {
+        "text": "上級がいい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535968466
+  }
+]

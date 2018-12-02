@@ -1,0 +1,30 @@
+[
+  {
+    "id": "3bb6e21a-f064-43a3-881f-80d14acd2cb8",
+    "data": [
+      {
+        "text": "はい",
+        "alias": "interval",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "155997dd-f4a2-4844-837e-6aea07f34ea9",
+    "data": [
+      {
+        "text": "休憩じゃ",
+        "alias": "interval",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534205971
+  }
+]

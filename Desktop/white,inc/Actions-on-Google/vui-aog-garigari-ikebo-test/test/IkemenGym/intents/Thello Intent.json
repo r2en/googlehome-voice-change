@@ -1,0 +1,39 @@
+{
+  "id": "ad9682af-1e93-4387-940d-d3165e08edfe",
+  "name": "Thello Intent",
+  "auto": true,
+  "contexts": [
+    "thello"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b97acf23-0d1d-40ea-9bfe-9eb63b234f68",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533989167,
+  "fallbackIntent": false,
+  "events": []
+}

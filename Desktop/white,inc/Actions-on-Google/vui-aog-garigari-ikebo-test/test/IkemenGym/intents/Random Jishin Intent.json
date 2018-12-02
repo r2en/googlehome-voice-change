@@ -1,0 +1,28 @@
+{
+  "id": "f164d7e8-918e-46eb-8f68-4a97bf9c220d",
+  "name": "Random Jishin Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535103939,
+  "fallbackIntent": false,
+  "events": []
+}

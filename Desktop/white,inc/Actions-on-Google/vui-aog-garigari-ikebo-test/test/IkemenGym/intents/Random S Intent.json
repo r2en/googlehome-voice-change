@@ -1,0 +1,28 @@
+{
+  "id": "ed62b014-a7f7-4d88-b8a2-e8d7faa0f010",
+  "name": "Random S Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535104218,
+  "fallbackIntent": false,
+  "events": []
+}

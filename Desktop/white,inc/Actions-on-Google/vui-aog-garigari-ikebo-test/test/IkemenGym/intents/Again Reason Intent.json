@@ -1,0 +1,39 @@
+{
+  "id": "1b6b52a4-3e38-4526-8a6a-5fc3106ed9bf",
+  "name": "Again Reason Intent",
+  "auto": true,
+  "contexts": [
+    "againreason"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a84c6a5c-40ab-4026-a526-e57573a79706",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "again",
+          "value": "$again",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534216474,
+  "fallbackIntent": false,
+  "events": []
+}

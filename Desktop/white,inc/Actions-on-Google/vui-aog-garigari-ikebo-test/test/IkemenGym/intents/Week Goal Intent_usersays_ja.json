@@ -1,0 +1,19 @@
+[
+  {
+    "id": "6518ccdb-621e-406a-8f75-b9bba8f7d8c3",
+    "data": [
+      {
+        "text": "今週",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "の目標",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529557529
+  }
+]

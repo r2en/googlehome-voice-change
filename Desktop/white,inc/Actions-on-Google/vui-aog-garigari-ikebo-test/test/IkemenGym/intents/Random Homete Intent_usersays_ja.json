@@ -1,0 +1,216 @@
+[
+  {
+    "id": "eb3540d6-b607-4c78-8ad3-7c4312f7f7d9",
+    "data": [
+      {
+        "text": "頑張ったよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103566
+  },
+  {
+    "id": "989cc18b-d5a6-4401-bd21-c71e16a4aa7a",
+    "data": [
+      {
+        "text": "頑張った",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103566
+  },
+  {
+    "id": "a5bfd1c7-94bd-4235-9e29-65ac220b94d2",
+    "data": [
+      {
+        "text": "頑張ろう",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103566
+  },
+  {
+    "id": "2d70658e-60ee-4e84-80b8-5b5b9898ed45",
+    "data": [
+      {
+        "text": "一",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "緒に頑張ろう",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103566
+  },
+  {
+    "id": "ac8d87ed-c3a8-4afa-9c1e-4f58ab3c5e91",
+    "data": [
+      {
+        "text": "支えて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103566
+  },
+  {
+    "id": "35ceba15-08aa-4440-b0d7-16442d35a37e",
+    "data": [
+      {
+        "text": "努力してる",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103566
+  },
+  {
+    "id": "c5dd5675-1850-439b-ba30-8b2156e72e22",
+    "data": [
+      {
+        "text": "十分",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "頑張ってる",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103566
+  },
+  {
+    "id": "975c9a9f-2841-4754-ae9d-b1619ffcffa4",
+    "data": [
+      {
+        "text": "頑張ってるもん",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103566
+  },
+  {
+    "id": "22ff5d6b-34cb-4e30-85fa-bc402ca485f3",
+    "data": [
+      {
+        "text": "頑張ってる",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103566
+  },
+  {
+    "id": "e871de39-e8f2-46dc-abf0-717300611ad3",
+    "data": [
+      {
+        "text": "ひめて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103566
+  },
+  {
+    "id": "50c8b09c-d594-4a48-83a2-0a1614ea5a7d",
+    "data": [
+      {
+        "text": "褒めてほしい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103566
+  },
+  {
+    "id": "e267637e-7d4f-44a2-8b15-f5c709d22df0",
+    "data": [
+      {
+        "text": "ちょっとは褒めて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103566
+  },
+  {
+    "id": "01c05dad-efc4-4e9a-8ca9-d1a5697dd66e",
+    "data": [
+      {
+        "text": "褒めてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103566
+  },
+  {
+    "id": "58293631-0dad-49f7-b119-fd6968a86234",
+    "data": [
+      {
+        "text": "褒めてよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103566
+  },
+  {
+    "id": "f1091ba6-066c-4058-9b62-87f69c413e44",
+    "data": [
+      {
+        "text": "褒めて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103566
+  },
+  {
+    "id": "fa0ecfc8-b6e9-4aeb-ae5a-8eb19739b80c",
+    "data": [
+      {
+        "text": "ほめて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535103566
+  },
+  {
+    "id": "6d4a0ace-02c6-4b15-ae02-58a53e3b0bcb",
+    "data": [
+      {
+        "text": "誉めて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533634633
+  }
+]

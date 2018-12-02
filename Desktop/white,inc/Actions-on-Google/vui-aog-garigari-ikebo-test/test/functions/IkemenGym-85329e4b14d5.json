@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ikemengym-d1c86",
+  "private_key_id": "85329e4b14d53227319be4bfce5405ef19de4ba6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCoXgO8B2B+5jDG\n2KsgnXF/R1XUtm4EA6qvHCZ7mDTPUMbEOAZHrWWDkx4qgAh9I4xIIGU+bEmP6NC/\n6NvjwxbHI4NtVtg1yLJ7KIdtGIICwYd6P9kGJyyLsDWZn31253sh/j0b3mb0FuoW\n9Rs1o1HEz+2sbwSp/OtqgxnQOlp8aEoWe67f6dPpfra0JsL3aJMN0APkbhbXPECG\npy0N/4JODnzyf+B7M53g+yo2oY/imBzQlJjcVBjJD0vIJbCNje6zKJPK1qkqNJdg\nczb5A3lQ/QtTwISHoxB+SYkF6ztOE3rw3J+RNcyADV9ah/hWrW9YxcvB5NxRDCk9\nJlY55wJDAgMBAAECggEAP0aF9MZ493gfYLvRJILHQuRWV4jwM8YFAaZ8t/pt7nQX\nH2tGwO1jt100+xf/GLihYgH6ysj7pIAE4/rpmOGaz+CC5ja7LwtsOGj07IVHZy3A\ncqtILs3OKflhS4jrKCK63f2kjbK50oZCF7qqLTBh7KuQUTuv7wrEltUKgH1NwG78\npsssLJ3iLJcE4aERjpFDKuCW+osTQI3kyTlZZsGKJ1r9bfGuZhqhB9mkKlacja3d\n4yj3FJNXde65TYE5jSLtD6uDO1JcGsmlh60d+wnSF+R9jO/ds5Sn7v8UvgtgnCEi\n/VaZu7MWjGuTTwAJhXweLmL38oZk9DrPJtKOenG0gQKBgQDjY6iTdf7z4IYbbLru\nlDponQYcaQxiXR0hE7qs1bYlvdOrRGkzr4ctI2MU84HDx98HbPVnSgd7qRYF94ki\nEIzeEwkXZ9P/r36HJyadnux3sraeyYAwTGJ9OVJsYA8RPq0S4z9DUudZIeQkTGcc\nH5Ia7znSt9UlCnsMkiUJswMsIwKBgQC9jTi6VmsF18ZuPwYFKLeIi3uJSAPJ2cDw\n2idoFZUKPCcQCIYtKV+o52QdHsIuYqopmtiGBAYvT63yObALYHUuyDy5iQ5ZxH06\nA5kUlFwXvUNvtKoHEsu2TNqish+dCrRj3rOCQsm9Wy/oBfcyQqXMvy4STTO0a9dx\nbFACHhOjYQKBgCW5rgkxBWh+sqEwK99TNlGO46mpAAX9vsxzEoCEQGEImmqKwg1y\nLLIfcdvS/o91xJndyOUnEhDBH8dDpzvAlS5u6A47CqAcBJj1tOFnsYG2Y7f6ZEsf\nESQHc5ZJZZaN2HcOvrszsPBHwCsJhf3TexD+6Y/9Md6gW4PdZ0mxqnATAoGBALdf\nrJaPzb98TGoRLFjHWC6PibZ4ZbnboA0hbugBoQqiwMOBC5UbJoD3QWHuhLptFuNi\n+r9Dm1wfwE7KQiXvbc4RRrXTAoATV3ZNTsWa9TC+F0Q0yhxHsa2t0gF9QpohZfwL\n0SteQ16dnc3gH5GO6mkWNpLb/v43Kdh/iTNTN3phAoGBAODtCDoRl4ZVW4riKv8V\nssJ6dV1LTR9+atowDLDw+kyDmsbTOtUzIsdanVmd6HtF2p4a/q3H6mzgsyCFfYrn\noqsIS5XjNTFqGn8OOvC2zDOfifSCs6yeh6YhiafdJ1KPifkstRQ4b8/nU36uOhEW\nlK3A7E7o79rKq24UIlKltfov\n-----END PRIVATE KEY-----\n",
+  "client_email": "pushnotificationtest-aog@ikemengym-d1c86.iam.gserviceaccount.com",
+  "client_id": "111883802016266517315",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pushnotificationtest-aog%40ikemengym-d1c86.iam.gserviceaccount.com"
+}

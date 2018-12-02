@@ -1,0 +1,30 @@
+{
+  "id": "5bef5aa7-cea4-4c0f-aecc-56691debc67e",
+  "name": "Week Goal Intent",
+  "auto": true,
+  "contexts": [
+    "goal"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529558533,
+  "fallbackIntent": false,
+  "events": []
+}

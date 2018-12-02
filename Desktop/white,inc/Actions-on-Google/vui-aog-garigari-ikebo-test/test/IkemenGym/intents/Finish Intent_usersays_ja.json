@@ -1,0 +1,434 @@
+[
+  {
+    "id": "750dfa58-1690-43d5-bd30-251b1d0b4520",
+    "data": [
+      {
+        "text": "ストップ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "badf7688-af2e-4378-9c9c-1b5589e10bf5",
+    "data": [
+      {
+        "text": "Ok Google 止め",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "271d9495-860b-448a-a912-2c9468c887f9",
+    "data": [
+      {
+        "text": "やめて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1535969040
+  },
+  {
+    "id": "d2b07053-6b96-4d0a-beca-d38c4491389a",
+    "data": [
+      {
+        "text": "Ok Google ストップ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "c532f03d-f13b-449d-86ff-a2289c5afe12",
+    "data": [
+      {
+        "text": "やめる",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 13,
+    "updated": 1534832948
+  },
+  {
+    "id": "a9a779b4-d514-4589-8bc8-4266b0a4ed6e",
+    "data": [
+      {
+        "text": "舐める",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e47a2c3e-67db-4f76-b7d8-e6bbeaf6e388",
+    "data": [
+      {
+        "text": "終わり",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1534832948
+  },
+  {
+    "id": "c9ff813e-219d-4237-b94e-bc4cb1d9c9e6",
+    "data": [
+      {
+        "text": "さよなら",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52fd2928-4776-4553-9e45-6835f6539b3e",
+    "data": [
+      {
+        "text": "さようなら",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1535969040
+  },
+  {
+    "id": "c6e6daac-3413-430e-ac60-696cd67fdc1d",
+    "data": [
+      {
+        "text": "終了",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1534832948
+  },
+  {
+    "id": "dd6d173b-bb5f-48e1-8128-c560ec0b7d91",
+    "data": [
+      {
+        "text": "やめていい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d0fc4e5c-05bc-4e36-bc07-2936f8984cde",
+    "data": [
+      {
+        "text": "もう 筋トレは辞めたいよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53bf3700-a1b2-48bf-b4db-e65cd1143112",
+    "data": [
+      {
+        "text": "もうやめます",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ab6fafd-b683-4313-a368-150901115b82",
+    "data": [
+      {
+        "text": "もう面倒",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4215dfe-fac0-4883-a5a2-aba9ed795c52",
+    "data": [
+      {
+        "text": "やめるわ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc91b831-ceaf-4a62-bd8f-d4e354501a10",
+    "data": [
+      {
+        "text": "おわり",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67a35815-e68a-4e69-a03d-a38556a90df5",
+    "data": [
+      {
+        "text": "フィジカル 終了",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8d7cf2a-1db7-47f2-ad4b-e66758382994",
+    "data": [
+      {
+        "text": "やめさせてください",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535969040
+  },
+  {
+    "id": "be59ca6f-77b6-46a3-af16-899e1c44d91e",
+    "data": [
+      {
+        "text": "お願いします。やめさせてください。",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535969040
+  },
+  {
+    "id": "b6ea3f0d-b877-403f-9fab-703e6ac3c088",
+    "data": [
+      {
+        "text": "グーグルホームの電源切って",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535969040
+  },
+  {
+    "id": "2127df1b-a4a4-4f90-b335-1437fdb50bd4",
+    "data": [
+      {
+        "text": "ビジカレ 終了",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535969040
+  },
+  {
+    "id": "41afd2c2-cfba-4524-9b37-fe8239968e66",
+    "data": [
+      {
+        "text": "もうおしまい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535969040
+  },
+  {
+    "id": "0b24ba9e-7a06-4d21-bddb-47c2b4190a5c",
+    "data": [
+      {
+        "text": "もうおしまいなさい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535969040
+  },
+  {
+    "id": "8d9c1bd0-ccb2-44b7-81b0-afb4acb8075d",
+    "data": [
+      {
+        "text": "フィジカル やめて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535969040
+  },
+  {
+    "id": "9abf93a6-c5c9-46a9-8aeb-d2b9dee8d49d",
+    "data": [
+      {
+        "text": "Ok Google フィジカル オフ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535969040
+  },
+  {
+    "id": "4b9d7782-d5ae-4dec-9148-0db499f8de9b",
+    "data": [
+      {
+        "text": "フィジカル オフ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535969040
+  },
+  {
+    "id": "322f6e00-0f21-4729-a438-6da7f240f4b3",
+    "data": [
+      {
+        "text": "Ok Google もういいよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535969040
+  },
+  {
+    "id": "562999ac-acbc-45de-b102-8720ea767c13",
+    "data": [
+      {
+        "text": "もういいよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535969040
+  },
+  {
+    "id": "fec271b0-e506-47cb-b4e8-684c250df071",
+    "data": [
+      {
+        "text": "おわりたいんです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832948
+  },
+  {
+    "id": "848ccc28-14d6-4947-b243-ca280641b46f",
+    "data": [
+      {
+        "text": "おわりたい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832948
+  },
+  {
+    "id": "8139046c-1f3a-4ca7-82ec-9a26eb678fd1",
+    "data": [
+      {
+        "text": "やめたいです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832948
+  },
+  {
+    "id": "6aa182d9-1eaa-4fd3-a3c3-813da2ee1928",
+    "data": [
+      {
+        "text": "おわりにしたいです",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832948
+  },
+  {
+    "id": "62d5ad98-adc7-4a95-b69c-7f690327c78c",
+    "data": [
+      {
+        "text": "おわる",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832948
+  },
+  {
+    "id": "73810842-664c-4e43-8b13-ab7e580f32a3",
+    "data": [
+      {
+        "text": "終わって",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1534832948
+  },
+  {
+    "id": "779f98d1-18c0-42bd-bda4-e8e7a01acef1",
+    "data": [
+      {
+        "text": "やめたい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534832948
+  },
+  {
+    "id": "7c9c6f1c-e782-41dd-bb0f-54f739d34fd8",
+    "data": [
+      {
+        "text": "終わる",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534324102
+  }
+]

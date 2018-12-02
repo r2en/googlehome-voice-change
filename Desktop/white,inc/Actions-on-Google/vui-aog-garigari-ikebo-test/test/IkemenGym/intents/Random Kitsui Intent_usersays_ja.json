@@ -1,0 +1,218 @@
+[
+  {
+    "id": "14894925-00af-4ccc-a36c-8a48169e1605",
+    "data": [
+      {
+        "text": "あー 疲れた",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e31f5d48-473d-4609-9e4f-aaaf36746e22",
+    "data": [
+      {
+        "text": "むり",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac2d7f37-78c0-4d3b-82db-6d33f368afa5",
+    "data": [
+      {
+        "text": "困った",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535104505
+  },
+  {
+    "id": "20e2278b-a2e9-4f03-bf5f-6fabf4a8875b",
+    "data": [
+      {
+        "text": "大丈夫じゃない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535104505
+  },
+  {
+    "id": "25fbaddc-730d-4998-8cdf-926a3d1ff8fd",
+    "data": [
+      {
+        "text": "もうだめ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102903
+  },
+  {
+    "id": "e0983db5-4297-4251-9175-13be71b5dcad",
+    "data": [
+      {
+        "text": "もう無理",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102903
+  },
+  {
+    "id": "1c1cf9dd-5cd9-450c-b903-40332fd87379",
+    "data": [
+      {
+        "text": "苦しい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102903
+  },
+  {
+    "id": "2256761c-4a0a-4902-a588-4a50a21b1591",
+    "data": [
+      {
+        "text": "助けて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102903
+  },
+  {
+    "id": "6f93059d-5160-4f95-b852-abb78cf336d0",
+    "data": [
+      {
+        "text": "死にたい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102609
+  },
+  {
+    "id": "122af271-3f61-4ae4-841e-07234a96705e",
+    "data": [
+      {
+        "text": "辛い",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535102609
+  },
+  {
+    "id": "0b558930-5093-4091-a874-c06170a62f16",
+    "data": [
+      {
+        "text": "ほんとうにしんどい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833600
+  },
+  {
+    "id": "99d78d2d-c4c4-4c35-a939-f5f9e1436043",
+    "data": [
+      {
+        "text": "まじで無理",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833600
+  },
+  {
+    "id": "b97385ca-ae1c-45b4-aa68-3f4ff940091a",
+    "data": [
+      {
+        "text": "かえりたい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833514
+  },
+  {
+    "id": "63070370-10bd-4cc6-821a-7d2a2ae3e576",
+    "data": [
+      {
+        "text": "もうやだ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833514
+  },
+  {
+    "id": "75dde9d9-07c4-4874-87d2-5c70f5fb07d1",
+    "data": [
+      {
+        "text": "つらい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833514
+  },
+  {
+    "id": "30304702-d0f0-4341-9dc5-496e93717e83",
+    "data": [
+      {
+        "text": "もうできない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833514
+  },
+  {
+    "id": "1c07dc9b-5833-4fbb-9fb6-0eba7650e7c4",
+    "data": [
+      {
+        "text": "しんどい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534833514
+  },
+  {
+    "id": "73fbb194-8b15-4704-8668-5a1a7f0cc80f",
+    "data": [
+      {
+        "text": "きつい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533634556
+  }
+]

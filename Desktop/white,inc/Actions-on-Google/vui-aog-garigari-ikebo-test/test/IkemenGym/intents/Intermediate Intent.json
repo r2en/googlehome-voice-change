@@ -1,0 +1,30 @@
+{
+  "id": "060ad4c3-baf7-4891-9224-e90a845630b0",
+  "name": "Intermediate Intent",
+  "auto": true,
+  "contexts": [
+    "intermediate"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535968601,
+  "fallbackIntent": false,
+  "events": []
+}

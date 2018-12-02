@@ -1,0 +1,31 @@
+{
+  "id": "5c5704d8-4447-4ba8-9912-69d72d7799b6",
+  "name": "Love Intent",
+  "auto": true,
+  "contexts": [
+    "love"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535621533,
+  "fallbackIntent": false,
+  "events": []
+}

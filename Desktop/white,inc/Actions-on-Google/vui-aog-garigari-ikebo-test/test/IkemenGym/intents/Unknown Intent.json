@@ -1,0 +1,30 @@
+{
+  "id": "559167c2-6e76-4660-aa00-9023e6b36be5",
+  "name": "Unknown Intent",
+  "auto": true,
+  "contexts": [
+    "unknown"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529542235,
+  "fallbackIntent": false,
+  "events": []
+}
